@@ -16,6 +16,8 @@ I see two solutions at the moment:
 - Only mine with [#CleanEnergy](https://twitter.com/hashtag/CleanEnergy)
 - Use a different algorithm
 
+What do you think?
+
 ## Tasks
 
 ### Find supportive followers
